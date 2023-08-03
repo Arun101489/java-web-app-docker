@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Greens Technologies 2023</p>
+		<p>&copy; Greens Technologies 2022</p>
 	</footer>
 </div>
 
